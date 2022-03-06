@@ -1,0 +1,1 @@
+word_list = ["aardvark", "baboon", "camel", "cheese", "chickadee", "ghost", "goose", "ham", "iguana", "jewish", "kibble", "lobster", "love", "milkshake", "never", "nuthatch", "orange", "pasta", "pikachu", "pokemon", "quit", "rambunctious", "stolen", "sword", "tacos", "unerwear", "witch", "xylophone", "zebra", "zoodle"]
